@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>439286203758-r309uaet1flldcgtonnrbmse1csjellm.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.439286203758-r309uaet1flldcgtonnrbmse1csjellm</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBlvn2RKFZlcegoNjLmwo_7usBrZJIY2i8</string>
+	<string>AIzaSyDD1i3VZ0ZXzZVFtd9POdZMi4F2Nbb28GA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>439286203758</string>
+	<string>594640354042</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.TwitterClone</string>
+	<string>com.test.Twitter</string>
 	<key>PROJECT_ID</key>
-	<string>twitterclone-3a397</string>
+	<string>twitterclone-c4f6c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>twitterclone-3a397.appspot.com</string>
+	<string>twitterclone-c4f6c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:439286203758:ios:d604a969410bb591a92d7f</string>
+	<string>1:594640354042:ios:727ed02f6c39fd48492743</string>
 </dict>
 </plist>
